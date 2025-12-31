@@ -61,9 +61,9 @@ h1, h2 {
   margin: 10px;
   padding: 15px 20px; /* Enlarge the padding */
   background: linear-gradient(
-    to bottom,
+    to right,
     rgb(170, 212, 229), /* ice blue button color */
-    rgb(255, 255, 255) /* white color */ 
+    rgb(65, 66, 65) /* gray color */ 
   );
   color: white;
   text-align: center;
@@ -78,9 +78,9 @@ h1, h2 {
 
 .button:hover {
   background: linear-gradient (
-    to bottom,
-    rgb(140, 185, 205), /* darker ice blue */ 
-    rgb(230, 230, 230) /* soft gray-white */ 
+    to right,
+    rgb(0, 163, 108), /* emerald green */ 
+    rgb(0, 94, 16) /* dark green */ 
     /* Even shaded colors on hover */
 
   );
